@@ -52,9 +52,9 @@ hr {
     column-count: 4;
     column-gap: 12px;
 
+    margin-top: 40px;
+    margin-bottom: 40px;
     width: 100%;
-    margin: 2px 2px;
-    padding: 16px;
 }
 
 .photo {
