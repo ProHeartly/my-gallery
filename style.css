@@ -77,3 +77,14 @@ hr {
     justify-self: center;
     font-family: 'test-font', sans-serif;
 }
+
+.ending {
+    margin: 40px;
+}
+
+.ending p {
+    color: #C47335;
+    font-size: 50px;
+    justify-self: center;
+    font-family: 'test-font', sans-serif;
+}
